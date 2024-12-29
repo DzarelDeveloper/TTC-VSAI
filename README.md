@@ -8,19 +8,16 @@ This project is a simple **Tic Tac Toe** game built using Python and the **tkint
 
 ## Features  
 
-1. **Two Players**  
-   - Players can take turns playing as "X" and "O".
-
-2. **Adjustable Difficulty**  
+1. **Adjustable Difficulty**  
    - Users can select the difficulty level for the computer opponent: Easy, Medium, or Hard.
 
-3. **Score Tracking**  
+2. **Score Tracking**  
    - The application keeps track of the scores for both players.
 
-4. **Reset Game**  
+3. **Reset Game**  
    - Users can reset the game at any time.
 
-5. **User -Friendly Interface**  
+4. **User -Friendly Interface**  
    - The game features a clean and intuitive interface.
 
 ---
